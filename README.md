@@ -18,8 +18,8 @@ A RESTful API built with Laravel for Demo purpose, secured with JSON Web Tokens 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/testsmith-io/demo-api.git
-   cd demo-api
+   git clone https://github.com/testsmith-io/api-demo.git
+   cd api-demo
    ```
 
 2. **Install dependencies**:
